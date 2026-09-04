@@ -1,0 +1,1081 @@
+
+[{
+"Nombre": "Mario Castanieda",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1962-06-29",
+"Edad": 64,
+"Patrimonio": 25000000,
+"Idiomas": ["Espaniol", "Ingles", "Ruso"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Goku",
+    "Serie, pelicula, anime o videojuego": "Dragon Ball Z",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 291,
+    "Generos": ["Anime", "Aventura", "Accion"]
+    },
+    {
+    "Nombre del personaje": "Bruce Banner",
+    "Serie, pelicula, anime o videojuego": "Marvel Cinematic Universe",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 8,
+    "Generos": ["Accion", "Ciencia ficcion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Jim Carrey",
+    "Serie, pelicula, anime o videojuego": "Mentiroso, mentiroso",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 1,
+    "Generos": ["Comedia"]
+    }
+]
+},
+{
+"Nombre": "Rene Garcia",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1970-03-12",
+"Edad": 56,
+"Patrimonio": 18000000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Vegeta",
+    "Serie, pelicula, anime o videojuego": "Dragon Ball",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 300,
+    "Generos": ["Anime", "Accion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Hyoga de Cisne",
+    "Serie, pelicula, anime o videojuego": "Los Caballeros del Zodiaco",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 114,
+    "Generos": ["Anime", "Aventura", "Fantasia"]
+    },
+    {
+    "Nombre del personaje": "Hanamichi Sakuragi",
+    "Serie, pelicula, anime o videojuego": "Slam Dunk",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 101,
+    "Generos": ["Anime", "Deportes", "Comedia"]
+    }
+]
+},
+{
+"Nombre": "Laura Torres",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1967-08-15",
+"Edad": 59,
+"Patrimonio": 12000000,
+"Idiomas": ["Espaniol", "Ingles", "Chino"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Goku ninio",
+    "Serie, pelicula, anime o videojuego": "Dragon Ball",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 153,
+    "Generos": ["Anime", "Aventura", "Accion"]
+    },
+    {
+    "Nombre del personaje": "Gohan ninio",
+    "Serie, pelicula, anime o videojuego": "Dragon Ball Z",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 117,
+    "Generos": ["Anime", "Aventura", "Accion"]
+    },
+    {
+    "Nombre del personaje": "Tommy Pickles",
+    "Serie, pelicula, anime o videojuego": "Rugrats",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 172,
+    "Generos": ["Animacion", "Comedia", "Aventura"]
+    }
+]
+},
+{
+"Nombre": "Eduardo Garza",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1976-01-10",
+"Edad": 50,
+"Patrimonio": 15000000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Krilin",
+    "Serie, pelicula, anime o videojuego": "Dragon Ball Z",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 291,
+    "Generos": ["Anime", "Accion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Gaara",
+    "Serie, pelicula, anime o videojuego": "Naruto",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 113,
+    "Generos": ["Anime", "Accion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Ichigo Kurosaki",
+    "Serie, pelicula, anime o videojuego": "Bleach",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 366,
+    "Generos": ["Anime", "Accion", "Fantasia"]
+    }
+]
+},
+{
+"Nombre": "Isabel Martinon",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1961-03-20",
+"Edad": 65,
+"Patrimonio": 11000000,
+"Idiomas": ["Espaniol"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Naruto Uzumaki",
+    "Serie, pelicula, anime o videojuego": "Naruto",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 220,
+    "Generos": ["Anime", "Accion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Ben Tennyson",
+    "Serie, pelicula, anime o videojuego": "Ben 10",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 234,
+    "Generos": ["Animacion", "Accion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Gumball Watterson",
+    "Serie, pelicula, anime o videojuego": "El increible mundo de Gumball",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 240,
+    "Generos": ["Animacion", "Comedia", "Familia"]
+    }
+]
+},
+{
+"Nombre": "Alfonso Obregon",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1960-07-29",
+"Edad": 66,
+"Patrimonio": 22000000,
+"Idiomas": ["Espaniol", "Ingles", "Ruso", "Chino"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Shrek",
+    "Serie, pelicula, anime o videojuego": "Shrek",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 4,
+    "Generos": ["Animacion", "Comedia", "Fantasia"]
+    },
+    {
+    "Nombre del personaje": "Kakashi Hatake",
+    "Serie, pelicula, anime o videojuego": "Naruto",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 220,
+    "Generos": ["Anime", "Accion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Marty",
+    "Serie, pelicula, anime o videojuego": "Madagascar",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 4,
+    "Generos": ["Animacion", "Comedia", "Aventura"]
+    }
+]
+},
+{
+"Nombre": "Jose Antonio Macias",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1967-09-19",
+"Edad": 58,
+"Patrimonio": 17000000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "James",
+    "Serie, pelicula, anime o videojuego": "Pokemon",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 400,
+    "Generos": ["Anime", "Aventura", "Comedia"]
+    },
+    {
+    "Nombre del personaje": "Capitan America",
+    "Serie, pelicula, anime o videojuego": "Marvel",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 12,
+    "Generos": ["Accion", "Aventura", "Ciencia ficcion"]
+    },
+    {
+    "Nombre del personaje": "Deadpool",
+    "Serie, pelicula, anime o videojuego": "Deadpool",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 3,
+    "Generos": ["Accion", "Comedia"]
+    }
+]
+},
+{
+"Nombre": "Cristina Hernandez",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1977-02-13",
+"Edad": 49,
+"Patrimonio": 14000000,
+"Idiomas": ["Espaniol", "Ingles", "Ruso"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Sakura Kinomoto",
+    "Serie, pelicula, anime o videojuego": "Cardcaptor Sakura",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 70,
+    "Generos": ["Anime", "Fantasia", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Bombon",
+    "Serie, pelicula, anime o videojuego": "Las chicas superpoderosas",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 78,
+    "Generos": ["Animacion", "Comedia", "Accion"]
+    },
+    {
+    "Nombre del personaje": "Padme Amidala",
+    "Serie, pelicula, anime o videojuego": "Star Wars",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 3,
+    "Generos": ["Ciencia ficcion", "Aventura", "Accion"]
+    }
+]
+},
+{
+"Nombre": "Humberto Velez",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1955-03-30",
+"Edad": 71,
+"Patrimonio": 20000000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Homero Simpson",
+    "Serie, pelicula, anime o videojuego": "Los Simpson",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 700,
+    "Generos": ["Animacion", "Comedia"]
+    },
+    {
+    "Nombre del personaje": "Winnie Pooh",
+    "Serie, pelicula, anime o videojuego": "Winnie the Pooh",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 30,
+    "Generos": ["Animacion", "Familia", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Lord Farquaad",
+    "Serie, pelicula, anime o videojuego": "Shrek",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 1,
+    "Generos": ["Animacion", "Comedia", "Fantasia"]
+    }
+]
+},
+{
+"Nombre": "Carlos Segundo",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1956-09-16",
+"Edad": 69,
+"Patrimonio": 13000000,
+"Idiomas": ["Espaniol", "Ingles", "Chino"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Piccolo",
+    "Serie, pelicula, anime o videojuego": "Dragon Ball",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 291,
+    "Generos": ["Anime", "Accion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Woody",
+    "Serie, pelicula, anime o videojuego": "Toy Story",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 4,
+    "Generos": ["Animacion", "Aventura", "Comedia"]
+    },
+    {
+    "Nombre del personaje": "Alf",
+    "Serie, pelicula, anime o videojuego": "ALF",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 102,
+    "Generos": ["Comedia", "Ciencia ficcion", "Familia"]
+    }
+]
+},
+{
+"Nombre": "Gerardo Reyero",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1965-10-02",
+"Edad": 60,
+"Patrimonio": 16000000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Freezer",
+    "Serie, pelicula, anime o videojuego": "Dragon Ball",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 110,
+    "Generos": ["Anime", "Accion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Superman",
+    "Serie, pelicula, anime o videojuego": "Superman",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 18,
+    "Generos": ["Accion", "Aventura", "Ciencia ficcion"]
+    },
+    {
+    "Nombre del personaje": "Han Solo",
+    "Serie, pelicula, anime o videojuego": "Star Wars",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 5,
+    "Generos": ["Ciencia ficcion", "Aventura", "Accion"]
+    }
+]
+},
+{
+"Nombre": "Patricia Acevedo",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1959-04-29",
+"Edad": 67,
+"Patrimonio": 14500000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Sailor Moon",
+    "Serie, pelicula, anime o videojuego": "Sailor Moon",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 200,
+    "Generos": ["Anime", "Accion", "Romance"]
+    },
+    {
+    "Nombre del personaje": "Milk",
+    "Serie, pelicula, anime o videojuego": "Dragon Ball",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 120,
+    "Generos": ["Anime", "Aventura", "Comedia"]
+    },
+    {
+    "Nombre del personaje": "Rachel Green",
+    "Serie, pelicula, anime o videojuego": "Friends",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 236,
+    "Generos": ["Comedia", "Romance"]
+    }
+]
+},
+{
+"Nombre": "Arturo Mercado",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1940-12-07",
+"Edad": 85,
+"Patrimonio": 10000000,
+"Idiomas": ["Espaniol", "Ingles", "Ruso"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Simba",
+    "Serie, pelicula, anime o videojuego": "El rey leon",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 4,
+    "Generos": ["Animacion", "Aventura", "Drama"]
+    },
+    {
+    "Nombre del personaje": "Shaggy Rogers",
+    "Serie, pelicula, anime o videojuego": "Scooby-Doo",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 80,
+    "Generos": ["Animacion", "Comedia", "Misterio"]
+    },
+    {
+    "Nombre del personaje": "Yoda",
+    "Serie, pelicula, anime o videojuego": "Star Wars",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 8,
+    "Generos": ["Ciencia ficcion", "Aventura", "Accion"]
+    }
+]
+},
+{
+"Nombre": "Mario Filio",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1966-03-12",
+"Edad": 60,
+"Patrimonio": 15500000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Obi-Wan Kenobi",
+    "Serie, pelicula, anime o videojuego": "Star Wars",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 5,
+    "Generos": ["Ciencia ficcion", "Aventura", "Accion"]
+    },
+    {
+    "Nombre del personaje": "Rey Julien",
+    "Serie, pelicula, anime o videojuego": "Madagascar",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 10,
+    "Generos": ["Animacion", "Comedia", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Goofy",
+    "Serie, pelicula, anime o videojuego": "Disney",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 100,
+    "Generos": ["Animacion", "Comedia", "Familia"]
+    }
+]
+},
+{
+"Nombre": "Luis Carreno",
+"Nacionalidad": "Venezuela",
+"Fecha de nacimiento": "1975-08-20",
+"Edad": 51,
+"Patrimonio": 9000000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Bob Esponja",
+    "Serie, pelicula, anime o videojuego": "Bob Esponja",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 300,
+    "Generos": ["Animacion", "Comedia", "Familia"]
+    },
+    {
+    "Nombre del personaje": "Tenya Iida",
+    "Serie, pelicula, anime o videojuego": "My Hero Academia",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 150,
+    "Generos": ["Anime", "Accion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Lujon",
+    "Serie, pelicula, anime o videojuego": "Doblaje adicional",
+    "Tipo de produccion": "independiente",
+    "Rol": "extra",
+    "Cantidad de apariciones": 4,
+    "Generos": ["Drama"]
+    }
+]
+},
+{
+"Nombre": "Idzi Dutkiewicz",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1974-07-20",
+"Edad": 52,
+"Patrimonio": 12500000,
+"Idiomas": ["Espaniol", "Ingles", "Chino"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Tony Stark / Iron Man",
+    "Serie, pelicula, anime o videojuego": "Marvel Cinematic Universe",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 11,
+    "Generos": ["Accion", "Ciencia ficcion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Dominic Toretto",
+    "Serie, pelicula, anime o videojuego": "Rapidos y furiosos",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 8,
+    "Generos": ["Accion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Kowalski",
+    "Serie, pelicula, anime o videojuego": "Madagascar",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 10,
+    "Generos": ["Animacion", "Comedia", "Aventura"]
+    }
+]
+},
+{
+"Nombre": "Juan Carlos Tinoco",
+"Nacionalidad": "Colombia",
+"Fecha de nacimiento": "1971-11-04",
+"Edad": 54,
+"Patrimonio": 11000000,
+"Idiomas": ["Espaniol", "Ingles", "Chino"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Brian Griffin",
+    "Serie, pelicula, anime o videojuego": "Padre de familia",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 400,
+    "Generos": ["Animacion", "Comedia"]
+    },
+    {
+    "Nombre del personaje": "Dwayne Johnson",
+    "Serie, pelicula, anime o videojuego": "Jumanji",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 4,
+    "Generos": ["Accion", "Aventura", "Comedia"]
+    },
+    {
+    "Nombre del personaje": "T'Challa",
+    "Serie, pelicula, anime o videojuego": "Marvel",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 8,
+    "Generos": ["Accion", "Aventura", "Ciencia ficcion"]
+    }
+]
+},
+{
+"Nombre": "Jesus Barrero",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1957-07-26",
+"Edad": 69,
+"Patrimonio": 8500000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Luke Skywalker",
+    "Serie, pelicula, anime o videojuego": "Star Wars",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 3,
+    "Generos": ["Ciencia ficcion", "Aventura", "Accion"]
+    },
+    {
+    "Nombre del personaje": "Seiya de Pegaso",
+    "Serie, pelicula, anime o videojuego": "Los Caballeros del Zodiaco",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 114,
+    "Generos": ["Anime", "Accion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Rex",
+    "Serie, pelicula, anime o videojuego": "Toy Story",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 4,
+    "Generos": ["Animacion", "Comedia", "Aventura"]
+    }
+]
+},
+{
+"Nombre": "Blas Garcia",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1942-05-26",
+"Edad": 84,
+"Patrimonio": 9500000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Saruman",
+    "Serie, pelicula, anime o videojuego": "El Senior de los Anillos",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 3,
+    "Generos": ["Fantasia", "Aventura", "Drama"]
+    },
+    {
+    "Nombre del personaje": "Nick Fury",
+    "Serie, pelicula, anime o videojuego": "Marvel",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 10,
+    "Generos": ["Accion", "Ciencia ficcion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Tai Lung",
+    "Serie, pelicula, anime o videojuego": "Kung Fu Panda",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 1,
+    "Generos": ["Animacion", "Accion", "Comedia"]
+    }
+]
+},
+{
+"Nombre": "Emilio Trevino",
+"Nacionalidad": "Mexico",
+"Fecha de nacimiento": "1999-08-13",
+"Edad": 27,
+"Patrimonio": 3500000,
+"Idiomas": ["Espaniol", "Ingles", "Ruso"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Miles Morales",
+    "Serie, pelicula, anime o videojuego": "Spider-Man: Un nuevo universo",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 2,
+    "Generos": ["Animacion", "Accion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Ian Lightfoot",
+    "Serie, pelicula, anime o videojuego": "Unidos",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 1,
+    "Generos": ["Animacion", "Aventura", "Fantasia"]
+    },
+    {
+    "Nombre del personaje": "Denji",
+    "Serie, pelicula, anime o videojuego": "Chainsaw Man",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 12,
+    "Generos": ["Anime", "Accion", "Fantasia"]
+    }
+]
+},
+{
+"Nombre": "Sebastian Llapur",
+"Nacionalidad": "Argentina",
+"Fecha de nacimiento": "1970-12-24",
+"Edad": 55,
+"Patrimonio": 12500000,
+"Idiomas": ["Espaniol", "Ingles", "Ruso"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Marcus Fenix",
+    "Serie, pelicula, anime o videojuego": "Gears of War",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 6,
+    "Generos": ["Accion", "Ciencia ficcion", "Videojuegos"]
+    },
+    {
+    "Nombre del personaje": "Darth Vader",
+    "Serie, pelicula, anime o videojuego": "Star Wars",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 12,
+    "Generos": ["Ciencia ficcion", "Accion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Diego",
+    "Serie, pelicula, anime o videojuego": "La era de hielo",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 5,
+    "Generos": ["Animacion", "Comedia", "Aventura"]
+    }
+]
+},
+{
+"Nombre": "Cecilia Gispert",
+"Nacionalidad": "Argentina",
+"Fecha de nacimiento": "1953-09-20",
+"Edad": 72,
+"Patrimonio": 8500000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Heidi",
+    "Serie, pelicula, anime o videojuego": "Heidi",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 52,
+    "Generos": ["Anime", "Drama", "Familia"]
+    },
+    {
+    "Nombre del personaje": "Candy",
+    "Serie, pelicula, anime o videojuego": "Candy Candy",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 115,
+    "Generos": ["Anime", "Drama", "Romance"]
+    }
+]
+},
+{
+"Nombre": "Ricardo Tejedo",
+"Nacionalidad": "Argentina",
+"Fecha de nacimiento": "1968-10-20",
+"Edad": 57,
+"Patrimonio": 11500000,
+"Idiomas": ["Espaniol", "Ingles", "Chino"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Jack Sparrow",
+    "Serie, pelicula, anime o videojuego": "Piratas del Caribe",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 5,
+    "Generos": ["Aventura", "Accion", "Comedia"]
+    },
+    {
+    "Nombre del personaje": "Captain Jack Harkness",
+    "Serie, pelicula, anime o videojuego": "Doctor Who",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 20,
+    "Generos": ["Ciencia ficcion", "Drama", "Aventura"]
+    }
+]
+},
+{
+"Nombre": "Alejandro Graue",
+"Nacionalidad": "Argentina",
+"Fecha de nacimiento": "1971-12-14",
+"Edad": 54,
+"Patrimonio": 9800000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Elmo",
+    "Serie, pelicula, anime o videojuego": "Plaza Sesamo",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 150,
+    "Generos": ["Infantil", "Comedia", "Familia"]
+    },
+    {
+    "Nombre del personaje": "Mordecai",
+    "Serie, pelicula, anime o videojuego": "Un show mas",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 261,
+    "Generos": ["Animacion", "Comedia", "Aventura"]
+    }
+]
+},
+{
+"Nombre": "Pablo Gandolfo",
+"Nacionalidad": "Argentina",
+"Fecha de nacimiento": "1967-05-08",
+"Edad": 59,
+"Patrimonio": 7500000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Wolverine",
+    "Serie, pelicula, anime o videojuego": "X-Men",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 20,
+    "Generos": ["Accion", "Animacion", "Ciencia ficcion"]
+    },
+    {
+    "Nombre del personaje": "Kratos",
+    "Serie, pelicula, anime o videojuego": "God of War",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 8,
+    "Generos": ["Accion", "Aventura", "Videojuegos"]
+    }
+]
+},
+{
+"Nombre": "Jorge Lillo",
+"Nacionalidad": "Chile",
+"Fecha de nacimiento": "1969-01-10",
+"Edad": 57,
+"Patrimonio": 7000000,
+"Idiomas": ["Espaniol", "Ingles", "Ruso"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Capitan Polar",
+    "Serie, pelicula, anime o videojuego": "Octonautas",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 150,
+    "Generos": ["Animacion", "Aventura", "Familia"]
+    },
+    {
+    "Nombre del personaje": "Sombra",
+    "Serie, pelicula, anime o videojuego": "Sonic X",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 26,
+    "Generos": ["Anime", "Accion", "Aventura"]
+    }
+]
+},
+{
+"Nombre": "Rodrigo Saavedra",
+"Nacionalidad": "Chile",
+"Fecha de nacimiento": "1967-03-03",
+"Edad": 59,
+"Patrimonio": 6500000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Optimus Prime",
+    "Serie, pelicula, anime o videojuego": "Transformers",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 90,
+    "Generos": ["Animacion", "Accion", "Ciencia ficcion"]
+    },
+    {
+    "Nombre del personaje": "Batman",
+    "Serie, pelicula, anime o videojuego": "Batman",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 30,
+    "Generos": ["Animacion", "Accion", "Aventura"]
+    }
+]
+},
+{
+"Nombre": "Pablo Ausensi",
+"Nacionalidad": "Chile",
+"Fecha de nacimiento": "1959-01-01",
+"Edad": 67,
+"Patrimonio": 6000000,
+"Idiomas": ["Espaniol", "Ingles", "Chino"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Winnie Pooh",
+    "Serie, pelicula, anime o videojuego": "Winnie the Pooh",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 30,
+    "Generos": ["Animacion", "Familia", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Piccolo",
+    "Serie, pelicula, anime o videojuego": "Dragon Ball",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 291,
+    "Generos": ["Anime", "Accion", "Aventura"]
+    }
+]
+},
+{
+"Nombre": "Luis Carreño",
+"Nacionalidad": "Venezuela",
+"Fecha de nacimiento": "1975-08-20",
+"Edad": 51,
+"Patrimonio": 9000000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Bob Esponja",
+    "Serie, pelicula, anime o videojuego": "Bob Esponja",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 300,
+    "Generos": ["Animacion", "Comedia", "Familia"]
+    },
+    {
+    "Nombre del personaje": "Tenya Iida",
+    "Serie, pelicula, anime o videojuego": "My Hero Academia",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 150,
+    "Generos": ["Anime", "Accion", "Aventura"]
+    }
+]
+},
+{
+"Nombre": "Andres Bustamante",
+"Nacionalidad": "Venezuela",
+"Fecha de nacimiento": "1970-07-05",
+"Edad": 56,
+"Patrimonio": 8000000,
+"Idiomas": ["Espaniol", "Ingles", "Ruso"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Pato Lucas",
+    "Serie, pelicula, anime o videojuego": "Looney Tunes",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 200,
+    "Generos": ["Animacion", "Comedia"]
+    },
+    {
+    "Nombre del personaje": "Rick Sanchez",
+    "Serie, pelicula, anime o videojuego": "Rick y Morty",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 70,
+    "Generos": ["Animacion", "Comedia", "Ciencia ficcion"]
+    }
+]
+},
+{
+"Nombre": "Rebeca Aponte",
+"Nacionalidad": "Venezuela",
+"Fecha de nacimiento": "1982-02-14",
+"Edad": 44,
+"Patrimonio": 5500000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Raven",
+    "Serie, pelicula, anime o videojuego": "Los jovenes titanes",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 65,
+    "Generos": ["Animacion", "Accion", "Comedia"]
+    },
+    {
+    "Nombre del personaje": "Mavis",
+    "Serie, pelicula, anime o videojuego": "Hotel Transylvania",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 4,
+    "Generos": ["Animacion", "Comedia", "Familia"]
+    }
+]
+},
+{
+"Nombre": "Gabriel Ramos",
+"Nacionalidad": "Venezuela",
+"Fecha de nacimiento": "1984-12-18",
+"Edad": 81,
+"Patrimonio": 4500000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Ash Ketchum",
+    "Serie, pelicula, anime o videojuego": "Pokemon",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 1200,
+    "Generos": ["Anime", "Aventura", "Accion"]
+    },
+    {
+    "Nombre del personaje": "Arnold",
+    "Serie, pelicula, anime o videojuego": "Hey Arnold!",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 100,
+    "Generos": ["Animacion", "Comedia", "Familia"]
+    }
+]
+},
+{
+"Nombre": "Ricardo Montalban",
+"Nacionalidad": "Colombia",
+"Fecha de nacimiento": "1978-04-10",
+"Edad": 48,
+"Patrimonio": 5000000,
+"Idiomas": ["Espaniol", "Ingles", "Chino"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Batman",
+    "Serie, pelicula, anime o videojuego": "Batman: La serie animada",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 85,
+    "Generos": ["Animacion", "Accion", "Aventura"]
+    },
+    {
+    "Nombre del personaje": "Hiccup",
+    "Serie, pelicula, anime o videojuego": "Como entrenar a tu dragon",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 4,
+    "Generos": ["Animacion", "Aventura", "Fantasia"]
+    }
+]
+},
+{
+"Nombre": "Marina Huerta",
+"Nacionalidad": "Colombia",
+"Fecha de nacimiento": "1967-12-29",
+"Edad": 58,
+"Patrimonio": 13000000,
+"Idiomas": ["Espaniol", "Ingles", "Ruso"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Bart Simpson",
+    "Serie, pelicula, anime o videojuego": "Los Simpson",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 700,
+    "Generos": ["Animacion", "Comedia"]
+    },
+    {
+    "Nombre del personaje": "Lisa Simpson",
+    "Serie, pelicula, anime o videojuego": "Los Simpson",
+    "Tipo de produccion": "profesional",
+    "Rol": "secundario",
+    "Cantidad de apariciones": 700,
+    "Generos": ["Animacion", "Comedia", "Familia"]
+    }
+]
+},
+{
+"Nombre": "Jorge Bringas",
+"Nacionalidad": "Colombia",
+"Fecha de nacimiento": "1972-06-15",
+"Edad": 54,
+"Patrimonio": 7200000,
+"Idiomas": ["Espaniol", "Ingles"],
+"Personajes": [
+    {
+    "Nombre del personaje": "Shrek",
+    "Serie, pelicula, anime o videojuego": "Shrek",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 4,
+    "Generos": ["Animacion", "Comedia", "Fantasia"]
+    },
+    {
+    "Nombre del personaje": "Gru",
+    "Serie, pelicula, anime o videojuego": "Mi villano favorito",
+    "Tipo de produccion": "profesional",
+    "Rol": "principal",
+    "Cantidad de apariciones": 4,
+    "Generos": ["Animacion", "Comedia", "Familia"]
+    }
+]
+}
+
+]
