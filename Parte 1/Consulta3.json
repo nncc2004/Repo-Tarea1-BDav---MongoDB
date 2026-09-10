@@ -1,0 +1,43 @@
+[{
+  "Nombre": "Emilio Trevino",
+  "Nacionalidad": "Mexico",
+  "Edad": 27,
+  "Personajes": [
+    {
+      "Nombre del personaje": "Miles Morales",
+      "Serie, pelicula, anime o videojuego": "Spider-Man: Un nuevo universo",
+      "Tipo de produccion": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 2,
+      "Generos": [
+        "Animacion",
+        "Accion",
+        "Aventura"
+      ]
+    },
+    {
+      "Nombre del personaje": "Ian Lightfoot",
+      "Serie, pelicula, anime o videojuego": "Unidos",
+      "Tipo de produccion": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 1,
+      "Generos": [
+        "Animacion",
+        "Aventura",
+        "Fantasia"
+      ]
+    },
+    {
+      "Nombre del personaje": "Denji",
+      "Serie, pelicula, anime o videojuego": "Chainsaw Man",
+      "Tipo de produccion": "profesional",
+      "Rol": "principal",
+      "Cantidad de apariciones": 12,
+      "Generos": [
+        "Anime",
+        "Accion",
+        "Fantasia"
+      ]
+    }
+  ]
+}]

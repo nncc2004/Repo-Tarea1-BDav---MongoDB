@@ -1,0 +1,60 @@
+[{
+  "Nombre": "Arturo Mercado",
+  "Nacionalidad": "Mexico",
+  "Edad": 85,
+  "Patrimonio": 10000000
+},
+{
+  "Nombre": "Blas Garcia",
+  "Nacionalidad": "Mexico",
+  "Edad": 84,
+  "Patrimonio": 9500000
+},
+{
+  "Nombre": "Gabriel Ramos",
+  "Nacionalidad": "Venezuela",
+  "Edad": 81,
+  "Patrimonio": 4500000
+},
+{
+  "Nombre": "Cecilia Gispert",
+  "Nacionalidad": "Argentina",
+  "Edad": 72,
+  "Patrimonio": 8500000
+},
+{
+  "Nombre": "Humberto Velez",
+  "Nacionalidad": "Mexico",
+  "Edad": 71,
+  "Patrimonio": 20000000
+},
+{
+  "Nombre": "Jesus Barrero",
+  "Nacionalidad": "Mexico",
+  "Edad": 69,
+  "Patrimonio": 8500000
+},
+{
+  "Nombre": "Carlos Segundo",
+  "Nacionalidad": "Mexico",
+  "Edad": 69,
+  "Patrimonio": 13000000
+},
+{
+  "Nombre": "Patricia Acevedo",
+  "Nacionalidad": "Mexico",
+  "Edad": 67,
+  "Patrimonio": 14500000
+},
+{
+  "Nombre": "Pablo Ausensi",
+  "Nacionalidad": "Chile",
+  "Edad": 67,
+  "Patrimonio": 6000000
+},
+{
+  "Nombre": "Alfonso Obregon",
+  "Nacionalidad": "Mexico",
+  "Edad": 66,
+  "Patrimonio": 22000000
+}]
