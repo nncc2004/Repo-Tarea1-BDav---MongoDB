@@ -1,0 +1,228 @@
+{
+  explainVersion: '1',
+  queryPlanner: {
+    namespace: 'Actors.Voice-actors',
+    parsedQuery: {
+      '$and': [
+        {
+          Idiomas: {
+            '$eq': 'Ruso'
+          }
+        },
+        {
+          Nacionalidad: {
+            '$eq': 'Mexico'
+          }
+        }
+      ]
+    },
+    indexFilterSet: false,
+    queryHash: 'A2EC8B8A',
+    planCacheShapeHash: 'A2EC8B8A',
+    planCacheKey: '9C853730',
+    optimizationTimeMillis: 0,
+    maxIndexedOrSolutionsReached: false,
+    maxIndexedAndSolutionsReached: false,
+    maxScansToExplodeReached: false,
+    prunedSimilarIndexes: false,
+    winningPlan: {
+      isCached: false,
+      stage: 'PROJECTION_SIMPLE',
+      transformBy: {
+        _id: 0,
+        Nombre: 1,
+        Edad: 1,
+        Nacionalidad: 1,
+        Idiomas: 1
+      },
+      inputStage: {
+        stage: 'SORT',
+        sortPattern: {
+          Nombre: 1
+        },
+        memLimit: 104857600,
+        limitAmount: 10,
+        type: 'simple',
+        inputStage: {
+          stage: 'FETCH',
+          filter: {
+            Idiomas: {
+              '$eq': 'Ruso'
+            }
+          },
+          inputStage: {
+            stage: 'IXSCAN',
+            keyPattern: {
+              Nacionalidad: 1
+            },
+            indexName: 'Nacionalidad_1',
+            isMultiKey: false,
+            multiKeyPaths: {
+              Nacionalidad: []
+            },
+            isUnique: false,
+            isSparse: false,
+            isPartial: false,
+            indexVersion: 2,
+            direction: 'forward',
+            indexBounds: {
+              Nacionalidad: [
+                '["Mexico", "Mexico"]'
+              ]
+            }
+          }
+        }
+      }
+    },
+    rejectedPlans: []
+  },
+  executionStats: {
+    executionSuccess: true,
+    nReturned: 5,
+    executionTimeMillis: 1,
+    totalKeysExamined: 18,
+    totalDocsExamined: 18,
+    executionStages: {
+      isCached: false,
+      stage: 'PROJECTION_SIMPLE',
+      nReturned: 5,
+      executionTimeMillisEstimate: 0,
+      works: 25,
+      advanced: 5,
+      needTime: 19,
+      needYield: 0,
+      saveState: 0,
+      restoreState: 0,
+      isEOF: 1,
+      transformBy: {
+        _id: 0,
+        Nombre: 1,
+        Edad: 1,
+        Nacionalidad: 1,
+        Idiomas: 1
+      },
+      inputStage: {
+        stage: 'SORT',
+        nReturned: 5,
+        executionTimeMillisEstimate: 0,
+        works: 25,
+        advanced: 5,
+        needTime: 19,
+        needYield: 0,
+        saveState: 0,
+        restoreState: 0,
+        isEOF: 1,
+        sortPattern: {
+          Nombre: 1
+        },
+        memLimit: 104857600,
+        limitAmount: 10,
+        type: 'simple',
+        totalDataSizeSorted: 5073,
+        usedDisk: false,
+        spills: 0,
+        spilledDataStorageSize: 0,
+        inputStage: {
+          stage: 'FETCH',
+          filter: {
+            Idiomas: {
+              '$eq': 'Ruso'
+            }
+          },
+          nReturned: 5,
+          executionTimeMillisEstimate: 0,
+          works: 19,
+          advanced: 5,
+          needTime: 13,
+          needYield: 0,
+          saveState: 0,
+          restoreState: 0,
+          isEOF: 1,
+          docsExamined: 18,
+          alreadyHasObj: 0,
+          inputStage: {
+            stage: 'IXSCAN',
+            nReturned: 18,
+            executionTimeMillisEstimate: 0,
+            works: 19,
+            advanced: 18,
+            needTime: 0,
+            needYield: 0,
+            saveState: 0,
+            restoreState: 0,
+            isEOF: 1,
+            keyPattern: {
+              Nacionalidad: 1
+            },
+            indexName: 'Nacionalidad_1',
+            isMultiKey: false,
+            multiKeyPaths: {
+              Nacionalidad: []
+            },
+            isUnique: false,
+            isSparse: false,
+            isPartial: false,
+            indexVersion: 2,
+            direction: 'forward',
+            indexBounds: {
+              Nacionalidad: [
+                '["Mexico", "Mexico"]'
+              ]
+            },
+            keysExamined: 18,
+            seeks: 1,
+            dupsTested: 0,
+            dupsDropped: 0
+          }
+        }
+      }
+    }
+  },
+  queryShapeHash: 'BF856D2D4212C6D66FC7CA32CBA09F5F7E1B07B78F95F85C777CF063C9F077ED',
+  command: {
+    find: 'Voice-actors',
+    filter: {
+      Nacionalidad: 'Mexico',
+      Idiomas: 'Ruso'
+    },
+    sort: {
+      Nombre: 1
+    },
+    projection: {
+      _id: 0,
+      Nombre: 1,
+      Edad: 1,
+      Nacionalidad: 1,
+      Idiomas: 1
+    },
+    limit: 10,
+    '$db': 'Actors'
+  },
+  serverInfo: {
+    host: 'e037c547d8a7',
+    port: 30002,
+    version: '8.0.29',
+    gitVersion: '559d67c651f7393e62757234a0b25cb7a8622148'
+  },
+  serverParameters: {
+    internalQueryFacetBufferSizeBytes: 104857600,
+    internalQueryFacetMaxOutputDocSizeBytes: 104857600,
+    internalLookupStageIntermediateDocumentMaxSizeBytes: 104857600,
+    internalDocumentSourceGroupMaxMemoryBytes: 104857600,
+    internalQueryMaxBlockingSortMemoryUsageBytes: 104857600,
+    internalQueryProhibitBlockingMergeOnMongoS: 0,
+    internalQueryMaxAddToSetBytes: 104857600,
+    internalDocumentSourceSetWindowFieldsMaxMemoryBytes: 104857600,
+    internalQueryFrameworkControl: 'trySbeRestricted',
+    internalQueryPlannerIgnoreIndexWithCollationForRegex: 1
+  },
+  ok: 1,
+  '$clusterTime': {
+    clusterTime: Timestamp({ t: 1789006996, i: 1 }),
+    signature: {
+      hash: Binary.createFromBase64('AAAAAAAAAAAAAAAAAAAAAAAAAAA=', 0),
+      keyId: Long('0')
+    }
+  },
+  operationTime: Timestamp({ t: 1789006996, i: 1 })
+}
